@@ -1,0 +1,25 @@
+h1 {
+    background-color: blue;
+  }
+  
+  h2 {
+    background-color: green;
+  }
+  
+  h3 {
+    background-color: yellow;
+    font-style: italic;
+  }
+  
+  h4 {
+    background-color: purple; /* Color elegido: púrpura */
+  }
+  
+  h5 {
+    background-color: blue; /* Se usa azul en lugar de rojo rojo, ya que la última especificación prevalece */
+  }
+  
+  p {
+    text-align: center;
+    font-family: 'Georgia', serif; /* Tipo de letra elegido: Georgia */
+  }
